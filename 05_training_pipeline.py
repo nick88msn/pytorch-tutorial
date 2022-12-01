@@ -9,6 +9,7 @@
 import torch
 import torch.nn as nn
 import time
+
 ### f = w * x
 
 X = torch.tensor([[1],[2],[3],[4]], dtype=torch.float32)
