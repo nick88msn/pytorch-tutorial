@@ -7,6 +7,7 @@ name = "pypi"
 torch = "*"
 pytorch-lightning = "*"
 torchvision = "*"
+matplotlib = "*"
 
 [dev-packages]
 
