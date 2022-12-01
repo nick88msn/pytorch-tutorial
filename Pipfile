@@ -8,6 +8,7 @@ torch = "*"
 pytorch-lightning = "*"
 torchvision = "*"
 matplotlib = "*"
+numpy = "*"
 
 [dev-packages]
 
