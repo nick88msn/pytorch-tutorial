@@ -10,6 +10,7 @@ torchvision = "*"
 matplotlib = "*"
 numpy = "*"
 scikit-learn = "*"
+tensorboard = "*"
 
 [dev-packages]
 
