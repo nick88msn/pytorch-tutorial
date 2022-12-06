@@ -1,3 +1,4 @@
 data/MNIST/*
 data/CIFAR10/*
 data/hymenoptera_data/*
+*.pth
